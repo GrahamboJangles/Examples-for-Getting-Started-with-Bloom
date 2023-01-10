@@ -1,4 +1,4 @@
-from bloom import chatbot2 as bloombot
+from bloom import chatbot as bloombot
 
 prompt = """User: Hello!
 Chatbot: Hello! How are you?
