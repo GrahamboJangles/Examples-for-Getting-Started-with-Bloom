@@ -1,5 +1,6 @@
 # Examples-for-Getting-Started-with-Bloom
 Here is how to use the Bloom API (the largest open-source language model) in Python. It is pretty easy.
+It has the same amount of parameters as GPT-3.
 
 # Steps:
 1. Download both Python files. 
